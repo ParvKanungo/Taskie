@@ -22,4 +22,6 @@ Task Deletion: The deletion of the task can be done by pressing on the task itse
 Key generation: every time when new task is added, there is a unique generated for that task.implemented by Math.ramdom().
 
 ## Documentation of Usage
-** Clone the Repository **: clone this git respository using git clone 
+** Clone the Repository **: clone this git respository using git clone "https://github.com/ParvKanungo/Taskie/tree/master"
+Install Depemdencies: This is the expo based project so make sure you install the expo go on the device you test and install all the related dependencies using npm install.
+Run the Application: to run the application run the npm start command on powershell or terminal. Before this make sure to install all the dependecies properly otherwise it can have wrong results
