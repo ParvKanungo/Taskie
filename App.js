@@ -33,13 +33,7 @@ export default function App() {
       <GoalText visible={isVisible} onAddHandler={addGoalHandler} onCancel={endAddGoalHandler} />
       </View>
       <View style={styles.goalsContainer}>
-        {/* <ScrollView>
-        {courseGoals.map((goals)=>
-        <View style={styles.goalItems} key={goals}>
-           <Text style={styles.goalText}>{goals}</Text>
-        </View>
-        )}
-        </ScrollView> */}
+        
         <FlatList data={courseGoals} renderItem={(itemData) => {
           return <GoalItems value={itemData.item.text} id={itemData.item.key} onDeleteItem={onDeleteHandler} />;
         }
