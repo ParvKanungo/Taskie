@@ -25,3 +25,7 @@ Key generation: every time when new task is added, there is a unique generated f
 Clone the Repository: clone this git respository using git clone "https://github.com/ParvKanungo/Taskie/tree/master"
 Install Depemdencies: This is the expo based project so make sure you install the expo go on the device you test and install all the related dependencies using npm install.
 Run the Application: to run the application run the npm start command on powershell or terminal. Before this make sure to install all the dependecies properly otherwise it can have wrong results
+
+
+https://github.com/ParvKanungo/Taskie/assets/107767099/3aeb80d1-3666-4a72-a849-0de187a7cf91
+
